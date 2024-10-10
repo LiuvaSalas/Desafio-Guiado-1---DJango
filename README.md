@@ -7,6 +7,7 @@
 ## Descripción del proyecto
 
 Codigo base DJango
+Desarrollado en Python 3.12.7
 
 ## Contenido
 
@@ -22,16 +23,7 @@ Items:
 Puedes realizar un fork desde tu Github, o clonar mi proyecto.
 
 ```bash
-git clone git@github.com:LiuvaSalas/Definicion-de-tablas---Postgres.git
-```
-
-## Instrucciones para Ejecutar el Proyecto
-
-Instrucciones para ejecutar el proyecto una vez instalado.
-
-```SQL Shell (psql)
-Abrir consola "SQL Shell (psql)" ingresar tus datos de acceso y ejecutar el codigo contenido en el archivo SQL.
-
+git clone git@github.com:LiuvaSalas/Desafio-Guiado-1---DJango.git
 ```
 
 ## Autor
